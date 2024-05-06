@@ -63,7 +63,7 @@
             Logout
             </a>
 
-            <a href="#My profile">
+            <a href="../Student/studentMy_Profile.php">
             My Profile
             </a>
 
